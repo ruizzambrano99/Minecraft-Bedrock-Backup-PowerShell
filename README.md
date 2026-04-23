@@ -1,5 +1,6 @@
 # Minecraft-Bedrock-Backup-PowerShell
-Automated Minecraft Bedrock world backups to Onedrive using PowerShell.
+
+"🇪🇸 ¿Hablas español? The GitHub repository includes a complete step-by-step guide in Spanish! / ¡El repositorio también incluye una guía visual paso a paso totalmente en español!"
 
 ## 1. Purpose and Problem Solved
 
