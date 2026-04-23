@@ -1,6 +1,6 @@
 # Minecraft-Bedrock-Backup-PowerShell
 
-"🇪🇸 ¿Hablas español? The GitHub repository includes a complete step-by-step guide in Spanish! / ¡El repositorio también incluye una guía visual paso a paso totalmente en español!"
+> 🇪🇸 **¿Hablas español?** [Lee la documentación en español aquí](./README_ES.md).
 
 ## 1. Purpose and Problem Solved
 
