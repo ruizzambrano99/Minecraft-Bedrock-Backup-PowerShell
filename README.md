@@ -1,6 +1,6 @@
 # Minecraft-Bedrock-Backup-PowerShell
 
-> 🇪🇸 **¿Hablas español?** [Lee la documentación en español aquí](./README_ES.md).
+> **¿Hablas español?** [Lee la documentación en español aquí](./README_ES.md).
 
 ## 1. Purpose and Problem Solved
 
